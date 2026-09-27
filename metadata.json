@@ -1,0 +1,6 @@
+{
+  "name": "Apollo Classes - Academic Passport",
+  "description": "Official Academic Passport & Learning Portal for Apollo Classes New Ranip, Ahmedabad. Mentored by Deepak Savant Sir & Jyoti Savant Ma'am.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
